@@ -9,4 +9,5 @@ ActiveMQ, AtlassianCrowd, CouchDB, DockerAPI, Druid, Dubbo, Elasticsearch, Ftp, 
     python run.py ALL 47.99.167.129 [80,443]
 
 - 如果指定策略和端口，只会取ip，端口就是指定的端口
+
     python run.py PostgresVuln [8080,8081] 
