@@ -1,0 +1,13 @@
+
+confluent_kafka==1.6.0
+loguru==0.5.3
+PyYAML==5.4.1
+requests==2.25.1
+SQLAlchemy==1.4.0
+pymongo==3.9
+psycopg2==2.8.6
+tld==0.9.3
+future==0.18.2
+attrs==20.3.0 
+pyserial==3.4 
+paramiko==2.12.0            
